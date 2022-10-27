@@ -8,13 +8,16 @@ import Footer from './componets/Footer'
 import Skills from './componets/Skills'
 import Projects from './componets/Projects'
 import 'bootstrap/dist/css/bootstrap.min.css'
+
+
 function App() {
 
 
   return (
     <div className="App">
-     <Content></Content>
+
      <NavBar></NavBar>
+     <Content></Content>
      <About/>
      <Services/>
      <Skills/>

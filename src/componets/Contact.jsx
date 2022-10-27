@@ -59,7 +59,7 @@ const Contact = () => {
   return (
  
       <div>
-        <section className='contact' id='contact'>
+        <section className='contact' id='Contact'>
           <Container>
             <Row className='align-items-center'>
               <Col size={12} md={6}>

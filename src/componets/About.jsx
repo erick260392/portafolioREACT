@@ -49,10 +49,10 @@ const About = () => {
   ];
 
   return (
-    <div id='about'>
-      <section className='about'>
+    <div id='about' className='about'>
+      <section className='about-me'>
         <div className='main'>
-          <img src={AboutImg} alt='' />
+          <img className='card-image' src={AboutImg}  />
           <div className='about-text'>
             <h2>About me</h2>
             <h5>

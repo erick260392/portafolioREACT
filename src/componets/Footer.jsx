@@ -13,7 +13,7 @@ const Footer = () => {
             </div> 
                 <p className='end'>CopyRight by Erick Licona</p>
             </footer>
-           
+          
         </div>
     );
 };

@@ -42,38 +42,13 @@ const NavBar = () => {
                             <Nav.Link href='#Service'>Services</Nav.Link>
                             <Nav.Link href='#skills'>Skills</Nav.Link>
                             <Nav.Link href='#Contact'>Contac Us</Nav.Link>
-                 
-                      
-                                               </Nav>
+                                                                                      </Nav>
                     </Navbar.Collapse>
                 </Container>
             </Navbar>
                 
         </div>
-          
-        // <div className='hero'>
-        //         <nav>
-                   
-        //             <ul>
-        //                 <li>
-        //                     <a href='#'>Home</a>
-        //                 </li>
-        //                 <li>
-        //                     <a ></a>
-        //                 </li>
-        //                 <li>
-        //                     <a ></a>
-        //                 </li>
-        //                 <li>
-        //                     <a ></a>
-        //                 </li>
-        //                 <li>
-        //                     <a ></a>
-        //                 </li>
-        //             </ul>
-        //         </nav>
-        //     </div>
-    );
+           );
 };
 
 export default NavBar;

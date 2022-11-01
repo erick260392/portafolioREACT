@@ -61,6 +61,36 @@ align-items: center;
   width: 100% !important;
 }
 
+.contact {
+  width: 550px !important;
+    background: #191919;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    
+  }
+
+  .contact img {
+    width: 40% !important;
+  }
+  .contact form input, .contact form textarea {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 40% !important;
+    background: #191919;
+    border: 1px solid#f9004d;
+    border-radius: 20px;
+    color: #fff;
+    font-weight: 500;
+    font-size: 18px;
+    letter-spacing: 0.8px;
+    transition: 0.3s ease-in-out;
+  }
+ 
+
 }
 
 
